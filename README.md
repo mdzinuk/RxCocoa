@@ -10,7 +10,7 @@ RxCocoa provides everything we need, wraps most UIKit compononent under Observab
 ## System requirements
 For this tutorial we'll use Xcode 10.2.1, Swift 5.*,  [cocoapods 1.7.2](https://cocoapods.org) and [RxSwift 5.0 & RxCocoa 5.0](https://github.com/ReactiveX/RxSwift.git). Since, RxSwift, RxCocoa and RxRelay come on same package we don't need to worry about individual pods.
 
-If you're new to Rx thing then please allow few times to visit my  [RxSwift tutorial](https://github.com/mdzinuk/RxSwift-Part-01) page first then come here again :).
+If you're new to Rx thing then please allow few times to visit my  [RxSwift tutorial](https://github.com/mdzinuk/RxSwift) page first then come here again :).
 
 ## Getting Started with [RxCocoa-Tuts](https://github.com/mdzinuk/RxCocoa)
 To get started, download [RxCocoa-Tuts](https://github.com/mdzinuk/RxCocoa/tree/master/RxCocoa-Tuts) first then open the **RxCocoa-Tuts.xcworkspace**  project in Xcode to build, build the project by selecting **RxCocoa-Tuts** target if it is not selected.
