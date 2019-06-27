@@ -12,10 +12,8 @@ For this tutorial we'll use Xcode 10.2.1, Swift 5.*,  [cocoapods 1.7.2](https://
 
 If you're new to Rx thing then please allow few times to visit my  [RxSwift tutorial](https://github.com/mdzinuk/RxSwift-Part-01) page first then come here again :).
 
-## Getting Started with [RxCocoa-Tuts](https://github.com/mdzinuk/RxSwift-Part-01/tree/master/RxSwift-Tuts)
-To get started, download [RxCocoa-Tuts] first(https://github.com/mdzinuk/RxSwift-Part-01/tree/master/RxSwift-Tuts)
-
-Open the **RxCocoa-Tuts.xcworkspace**  project in Xcode to build, build the project by selecting **RxCocoa-Tuts** target if it is not selected.
+## Getting Started with [RxCocoa-Tuts](https://github.com/mdzinuk/RxCocoa)
+To get started, download [RxCocoa-Tuts](https://github.com/mdzinuk/RxCocoa/tree/master/RxCocoa-Tuts) first then open the **RxCocoa-Tuts.xcworkspace**  project in Xcode to build, build the project by selecting **RxCocoa-Tuts** target if it is not selected.
 
 
 
