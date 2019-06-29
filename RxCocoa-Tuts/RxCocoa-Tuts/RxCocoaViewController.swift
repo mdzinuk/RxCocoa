@@ -9,9 +9,14 @@
 import UIKit
 
 class RxCocoaViewController: UIViewController {
+    @IBOutlet weak var name: UITextField!
+    @IBOutlet weak var email: UITextField!
+    @IBOutlet weak var age: UITextField!
+    @IBOutlet weak var submit: UIButton!
+    @IBOutlet weak var label: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 }
 

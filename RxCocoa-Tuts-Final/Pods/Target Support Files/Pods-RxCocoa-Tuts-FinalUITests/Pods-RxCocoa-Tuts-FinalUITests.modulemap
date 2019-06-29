@@ -1,0 +1,6 @@
+framework module Pods_RxCocoa_Tuts_FinalUITests {
+  umbrella header "Pods-RxCocoa-Tuts-FinalUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

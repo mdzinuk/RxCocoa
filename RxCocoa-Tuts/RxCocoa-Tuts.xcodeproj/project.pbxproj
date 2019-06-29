@@ -8,11 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		2704721F51C9EA46532FD9C2 /* Pods_RxCocoa_TutsUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B6EB577B9A583DC44BD0BCA5 /* Pods_RxCocoa_TutsUITests.framework */; };
+		8617400A22C75B8A00E07EBA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8617400922C75B8A00E07EBA /* LaunchScreen.storyboard */; };
+		8617400B22C75B8A00E07EBA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8617400922C75B8A00E07EBA /* LaunchScreen.storyboard */; };
 		9674ABE922C451580008F8FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9674ABE822C451580008F8FD /* AppDelegate.swift */; };
 		9674ABEB22C451580008F8FD /* RxCocoaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9674ABEA22C451580008F8FD /* RxCocoaViewController.swift */; };
 		9674ABEE22C451580008F8FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9674ABEC22C451580008F8FD /* Main.storyboard */; };
 		9674ABF022C451590008F8FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9674ABEF22C451590008F8FD /* Assets.xcassets */; };
-		9674ABF322C451590008F8FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9674ABF122C451590008F8FD /* LaunchScreen.storyboard */; };
 		9674ABFE22C451590008F8FD /* RxCocoa_TutsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9674ABFD22C451590008F8FD /* RxCocoa_TutsTests.swift */; };
 		9674AC0922C451590008F8FD /* RxCocoa_TutsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9674AC0822C451590008F8FD /* RxCocoa_TutsUITests.swift */; };
 		BA8CD5D372830B223607E1C6 /* Pods_RxCocoa_Tuts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB3CADBF9D4C518D214DA47B /* Pods_RxCocoa_Tuts.framework */; };
@@ -40,12 +41,12 @@
 		22F5E26C2B355FE6DDCCBCDF /* Pods-RxCocoa-TutsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxCocoa-TutsTests.release.xcconfig"; path = "Target Support Files/Pods-RxCocoa-TutsTests/Pods-RxCocoa-TutsTests.release.xcconfig"; sourceTree = "<group>"; };
 		5F19F8329B79C0266CC56F29 /* Pods_RxCocoa_TutsTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RxCocoa_TutsTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		60C805D473B61F8116A95E20 /* Pods-RxCocoa-Tuts.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxCocoa-Tuts.debug.xcconfig"; path = "Target Support Files/Pods-RxCocoa-Tuts/Pods-RxCocoa-Tuts.debug.xcconfig"; sourceTree = "<group>"; };
+		8617400922C75B8A00E07EBA /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9674ABE522C451580008F8FD /* RxCocoa-Tuts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RxCocoa-Tuts.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9674ABE822C451580008F8FD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9674ABEA22C451580008F8FD /* RxCocoaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RxCocoaViewController.swift; sourceTree = "<group>"; };
 		9674ABED22C451580008F8FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9674ABEF22C451590008F8FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		9674ABF222C451590008F8FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9674ABF422C451590008F8FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9674ABF922C451590008F8FD /* RxCocoa-TutsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "RxCocoa-TutsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9674ABFD22C451590008F8FD /* RxCocoa_TutsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RxCocoa_TutsTests.swift; sourceTree = "<group>"; };
@@ -131,8 +132,8 @@
 				9674ABEA22C451580008F8FD /* RxCocoaViewController.swift */,
 				9674ABEC22C451580008F8FD /* Main.storyboard */,
 				9674ABEF22C451590008F8FD /* Assets.xcassets */,
-				9674ABF122C451590008F8FD /* LaunchScreen.storyboard */,
 				9674ABF422C451590008F8FD /* Info.plist */,
+				8617400922C75B8A00E07EBA /* LaunchScreen.storyboard */,
 			);
 			path = "RxCocoa-Tuts";
 			sourceTree = "<group>";
@@ -273,7 +274,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9674ABF322C451590008F8FD /* LaunchScreen.storyboard in Resources */,
+				8617400A22C75B8A00E07EBA /* LaunchScreen.storyboard in Resources */,
 				9674ABF022C451590008F8FD /* Assets.xcassets in Resources */,
 				9674ABEE22C451580008F8FD /* Main.storyboard in Resources */,
 			);
@@ -290,6 +291,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8617400B22C75B8A00E07EBA /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -429,14 +431,6 @@
 				9674ABED22C451580008F8FD /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		9674ABF122C451590008F8FD /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				9674ABF222C451590008F8FD /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
